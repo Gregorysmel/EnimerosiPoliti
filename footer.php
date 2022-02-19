@@ -15,7 +15,7 @@
   </style>
 <div class="footer">
     <div style="color:white">
-      <b text-align="left">Ο Στέλιος είναι μια παταωμένη κουράδα<br>που κάνει τακα τακα</b>
+      <b text-align="left"><br></b>
       <p>
         <a href="r" target="_blank">
         </a>
