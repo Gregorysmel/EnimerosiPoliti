@@ -15,7 +15,7 @@
   </style>
 <div class="footer">
     <div style="color:white">
-      <b text-align="left"> <br> </b>
+      <b text-align="left"> Enimerosi Politi <br> February 2022</b>
       <p>
         <a href="r" target="_blank">
         </a>
